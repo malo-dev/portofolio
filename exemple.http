@@ -1,0 +1,5 @@
+GET http://localhost:3000/songs
+
+# PUT http://localhost:3000/songs/12
+
+POST  http://localhost:3000/songs
